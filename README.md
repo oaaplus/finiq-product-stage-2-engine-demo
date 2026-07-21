@@ -1,0 +1,1 @@
+Upload app.py, requirements.txt, and the data folder to the ROOT of GitHub. Streamlit Main file path: app.py
